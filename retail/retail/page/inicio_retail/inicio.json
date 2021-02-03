@@ -1,0 +1,26 @@
+{
+ "content": null, 
+ "creation": "2017-12-20 01:11:25.204551", 
+ "docstatus": 0, 
+ "doctype": "Page", 
+ "idx": 0, 
+ "modified": "2017-12-22 09:53:00.415707", 
+ "modified_by": "Administrator", 
+ "module": "retail", 
+ "name": "inicio", 
+ "owner": "Administrator", 
+ "page_name": "Inicio", 
+ "roles": [
+  {
+   "role": "System Manager"
+  }, 
+  {
+   "role": "Cajero"
+  }
+ ], 
+ "script": null, 
+ "standard": "Yes", 
+ "style": null, 
+ "system_page": 0, 
+ "title": "inicio"
+}
